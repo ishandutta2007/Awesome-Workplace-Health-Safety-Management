@@ -49,7 +49,7 @@
 
 The open-source ecosystem provides powerful tools for computer vision PPE detection, Safety Data Sheet (SDS) AI parsers, occupational hygiene calculators, and incident management backends.
 
-| Repository | Stars | Category / Description |
+| Repository | GitHub_Stars | Category / Description |
 | :--- | :--- | :--- |
 | **[Ismailjm/PPE_detection_using_YOLOV8](https://github.com/Ismailjm/PPE_detection_using_YOLOV8)** | [![Stars](https://img.shields.io/github/stars/Ismailjm/PPE_detection_using_YOLOV8?style=social&color=white)](https://github.com/Ismailjm/PPE_detection_using_YOLOV8/stargazers) | 👁️ **Vision AI**: Real-time Personal Protective Equipment (PPE) detection using YOLOv8 deep learning. |
 | **[balakreshnan/WorkplaceSafety](https://github.com/balakreshnan/WorkplaceSafety)** | [![Stars](https://img.shields.io/github/stars/balakreshnan/WorkplaceSafety?style=social&color=white)](https://github.com/balakreshnan/WorkplaceSafety/stargazers) | 👁️ **Vision AI**: Custom Azure & Azure AI Vision workplace safety hazard detection system. |
@@ -80,7 +80,7 @@ The open-source ecosystem provides powerful tools for computer vision PPE detect
 
 1. Fork the repository.
 2. Add or update entries in `README.md` following the exact table structure.
-3. Ensure open-source additions include valid GitHub star badges linking directly to their `stargazers` page.
+3. Ensure open-source additions include valid GitHub Stars_Badges linking directly to their `stargazers` page.
 4. Submit a Pull Request with a brief explanation of your changes.
 
 ---
